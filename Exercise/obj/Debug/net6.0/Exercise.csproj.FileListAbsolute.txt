@@ -1,0 +1,15 @@
+E:\KPI\OP\assignments\bp-kp23-yevtushenko\Exercise\bin\Debug\net6.0\Exercise.exe
+E:\KPI\OP\assignments\bp-kp23-yevtushenko\Exercise\bin\Debug\net6.0\Exercise.deps.json
+E:\KPI\OP\assignments\bp-kp23-yevtushenko\Exercise\bin\Debug\net6.0\Exercise.runtimeconfig.json
+E:\KPI\OP\assignments\bp-kp23-yevtushenko\Exercise\bin\Debug\net6.0\Exercise.dll
+E:\KPI\OP\assignments\bp-kp23-yevtushenko\Exercise\bin\Debug\net6.0\Exercise.pdb
+E:\KPI\OP\assignments\bp-kp23-yevtushenko\Exercise\obj\Debug\net6.0\Exercise.csproj.AssemblyReference.cache
+E:\KPI\OP\assignments\bp-kp23-yevtushenko\Exercise\obj\Debug\net6.0\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\KPI\OP\assignments\bp-kp23-yevtushenko\Exercise\obj\Debug\net6.0\Exercise.AssemblyInfoInputs.cache
+E:\KPI\OP\assignments\bp-kp23-yevtushenko\Exercise\obj\Debug\net6.0\Exercise.AssemblyInfo.cs
+E:\KPI\OP\assignments\bp-kp23-yevtushenko\Exercise\obj\Debug\net6.0\Exercise.csproj.CoreCompileInputs.cache
+E:\KPI\OP\assignments\bp-kp23-yevtushenko\Exercise\obj\Debug\net6.0\Exercise.dll
+E:\KPI\OP\assignments\bp-kp23-yevtushenko\Exercise\obj\Debug\net6.0\refint\Exercise.dll
+E:\KPI\OP\assignments\bp-kp23-yevtushenko\Exercise\obj\Debug\net6.0\Exercise.pdb
+E:\KPI\OP\assignments\bp-kp23-yevtushenko\Exercise\obj\Debug\net6.0\Exercise.genruntimeconfig.cache
+E:\KPI\OP\assignments\bp-kp23-yevtushenko\Exercise\obj\Debug\net6.0\ref\Exercise.dll
