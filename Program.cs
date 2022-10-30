@@ -13,15 +13,6 @@ namespace Practise2
             char op;
             bool close = false;
             char x;
-            /*Console.Write("Enter number a: ");
-            a = Convert.ToSingle(Console.ReadLine());
-            Console.Clear();
-            Console.Write("Enter number b: ");
-            b = Convert.ToSingle(Console.ReadLine());
-            Console.Clear();
-            Console.Write("Enter operation symbol: ");
-            op = Convert.ToChar(Console.ReadLine());
-            Console.Clear();*/
             
             try
             {
